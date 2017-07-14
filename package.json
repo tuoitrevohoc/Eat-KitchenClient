@@ -1,0 +1,27 @@
+{
+  "name": "sitneatkitchen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/body-parser": "^1.16.4",
+    "@types/jsonwebtoken": "^7.2.1",
+    "@types/react": "^15.0.31",
+    "@types/react-dom": "^15.5.1",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "fetch": "^1.1.0",
+    "jsonwebtoken": "^7.4.1",
+    "path": "^0.12.7",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "ts-loader": "^2.2.0",
+    "typescript": "^2.3.4",
+    "webpack": "^3.0.0"
+  }
+}
